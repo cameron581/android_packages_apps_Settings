@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2012-2013 The CyanogenMod Project
+<!-- Copyright (C) 2012-2013 The CyanFox Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -377,7 +377,10 @@
     <string name="power_menu_profiles_title">Profiilit</string>
     <string name="power_menu_airplane_title">Lentokonetila</string>
     <string name="power_menu_user_title">Käyttäjät</string>
+<<<<<<< HEAD
     <string name="power_menu_sound_title">Äänipaneeli</string>
+=======
+>>>>>>> 1789751... Rename ROM
     <string name="cmupdate_settings_title">CyanFox-päivitykset</string>
     <string name="cmupdate_settings_summary">Tarkista, katso tai asenna saatavilla olevat päivitykset</string>
     <string name="advanced_settings_title">Lisäasetukset</string>

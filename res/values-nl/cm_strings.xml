@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <!--
      Copyright (C) 2012-2013 The CyanogenMod Project
+=======
+<!-- Copyright (C) 2012-2013 The CyanFox Project
+>>>>>>> 1789751... Rename ROM
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -522,9 +526,12 @@ Let op:\nAangezien het beginvolume hoger is ingesteld dan het beltoonvolume, wor
     <string name="safe_headset_volume_title">Veilig headsetvolume</string>
     <string name="cyanogenmod_waiver_title">Afstandsverklaring</string>
     <string name="cyanogenmod_waiver_body">Het wijzigen van deze instelling kan in overtreding zijn met de regelgeving in uw staat/land.\n\nDoor te tikken op \'OK\' erkent u deze waarschuwing en doet u afstand van en vrijwaart u CyanFox en/of haar bijdragers van alle wettelijke verplichtingen</string>
+<<<<<<< HEAD
     <string name="auto_brightness_setup_title">Automatische helderheid</string>
     <string name="auto_brightness_adjustment_title">Helderheid aanpassen</string>
     <string name="auto_brightness_twilight_adjustment">Aanpassen aan zonsopgang en zonsondergang</string>
+=======
+>>>>>>> 1789751... Rename ROM
     <string name="light_sensor_current_value">Huidige lichtsensorwaarde: <xliff:g id="light_level">%d</xliff:g> lux</string>
     <string name="auto_brightness_dialog_title">Autom. helderheidsstanden</string>
     <string name="auto_brightness_level_format"><xliff:g id="level">%1$d</xliff:g> lux</string>

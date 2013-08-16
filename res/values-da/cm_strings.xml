@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2012-2013 The CyanogenMod Project
+<!-- Copyright (C) 2012-2013 The CyanFox Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -523,9 +523,12 @@
     <string name="safe_headset_volume_title">Sikker lydstyrke for håndfri</string>
     <string name="cyanogenmod_waiver_title">Ophævelse</string>
     <string name="cyanogenmod_waiver_body">At ændre denne indstilling kan være imod loven.\n\nVed at vælge \'OK\' herunder anerkender du denne advarsel og ophæver, sikrer og holder CyanFox og dens bidragydere skadesløse fra alle juridiske forpligtelser.</string>
+<<<<<<< HEAD
     <string name="auto_brightness_setup_title">Automatisk lysstyrke</string>
     <string name="auto_brightness_adjustment_title">Tilpasning af lysstyrke</string>
     <string name="auto_brightness_twilight_adjustment">Tilpas til solopgang og solnedgang</string>
+=======
+>>>>>>> 1789751... Rename ROM
     <string name="light_sensor_current_value">Aktuel værdi for lyssensor: <xliff:g id="light_level">%d</xliff:g> lux</string>
     <string name="auto_brightness_dialog_title">Automatisk lysstyrke-niveau</string>
     <string name="auto_brightness_level_format"><xliff:g id="level">%1$d</xliff:g> lux</string>
