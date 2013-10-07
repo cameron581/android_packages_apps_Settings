@@ -95,7 +95,6 @@
     <string name="lockscreen_target_title">Raccourcis</string>
     <string name="lockscreen_target_summary">Configurer les raccourcis de l\'écran de verrouillage</string>
     <string name="lockscreen_target_reset">Les raccourcis ont été réinitialisés</string>
-    <string name="lockscreen_target_save">Les raccourcis ont été enregistrés</string>
     <string name="lockscreen_target_reset_title">Réinitialiser</string>
     <string name="lockscreen_target_reset_message">Supprimer tous les raccourcis et revenir à la configuration d\'origine\u00A0?</string>
     <string name="lockscreen_target_empty">Vide</string>
@@ -201,20 +200,13 @@
     <string name="performance_settings_warning_title">ATTENTION\u00A0!</string>
     <string name="performance_settings_warning">Les options présentes ici altèrent les performances du système, en bien ou en mal.\nElles ont des comportements différents selon les appareils et ne sont disponibles que pour expérimentation.\nNous vous demandons de ne pas soumettre de rapport de bug à propos de celles-ci.</string>
     <string name="processor_title">Paramètres CPU</string>
-    <string name="processor_summary">Changer la stratégie et la fréquence du processeur</string>
     <string name="cpu_cur_freq_title">Fréquence actuelle</string>
     <string name="cpu_governors_title">Stratégie</string>
     <string name="cpu_min_freq_title">Fréquence minimale</string>
     <string name="cpu_max_freq_title">Fréquence maximale</string>
-    <string name="cpu_set_on_boot">Appliquer au démarrage</string>
-    <string name="cpu_set_on_boot_summary">Appliquer les paramètres du processeur au démarrage</string>
     <string name="io_scheds_title">Horloge E/S</string>
-    <string name="io_scheds_summary">Changer l\'horloge E/S</string>
     <string name="io_sched_title">Horloge E/S</string>
-    <string name="io_sched_set_on_boot">Appliquer au démarrage</string>
-    <string name="io_sched_set_on_boot_summary">Appliquer les paramètres d\'horloge E/S au démarrage</string>
     <string name="memory_management_title">Gestion de la mémoire</string>
-    <string name="memory_management_summary">Options de gestion de la mémoire pour optimiser les performances</string>
     <string name="pref_zram_title">zRam</string>
     <string name="pref_zram_summary">Compresser la mémoire pour augmenter virtuellement sa capacité (nécessite un redémarrage)</string>
     <string name="pref_ksm_title">KSM</string>
@@ -477,6 +469,7 @@
     <string name="title_tile_quiet_hours">Heures silencieuses</string>
     <string name="title_tile_volume">Volume</string>
     <string name="title_tile_expanded_desktop">Bureau étendu</string>
+    <string name="title_tile_network_adb">ADB réseau</string>
     <string name="title_dynamic_tiles">Raccourcis dynamiques</string>
     <string name="dynamic_tiles_note_title">Note</string>
     <string name="dynamic_tiles_note_summary">Les raccourcis dynamiques ne sont pas toujours visibles et ils ne peuvent s\'afficher que s\'ils sont déclenchés par un événement système</string>
@@ -578,7 +571,6 @@ Des options supplémentaires sont disponibles en appuyant longtemps sur une lign
     <string name="navigation_ring_title">Raccourcis de lancement rapide</string>
     <string name="navring_target_reset_message">Supprimer tous les raccourcis de la barre de navigation et revenir à la configuration d\'origine\u00A0?</string>
     <string name="navring_target_reset">Raccourcis de la barre de navigation réinitialisés</string>
-    <string name="navring_target_save">Raccourcis de la barre de navigation enregistrés</string>
     <string name="navring_action_open_ime_switcher">Changer la méthode de saisie</string>
     <string name="navring_action_kill_app">Fermer les applications</string>
     <string name="navring_action_none">Aucun</string>

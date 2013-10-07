@@ -93,7 +93,6 @@
     <string name="lockscreen_target_title">Genvägar</string>
     <string name="lockscreen_target_summary">Visa eller ändra egna låsskärmsgenvägar</string>
     <string name="lockscreen_target_reset">Låsskärmsgenvägar återställda</string>
-    <string name="lockscreen_target_save">Låsskärmsgenvägar sparade</string>
     <string name="lockscreen_target_reset_title">Återställ</string>
     <string name="lockscreen_target_reset_message">Ta bort alla användarskapade låsskärmsgenvägar och återställ till standard?</string>
     <string name="lockscreen_target_empty">Tom</string>
@@ -199,20 +198,13 @@
     <string name="performance_settings_warning_title">Fortsätt med försiktighet</string>
     <string name="performance_settings_warning">Dessa inställningar finns med för experimentation och alla ändringar av dem har potential att skapa instabilitet, krascher, dataförlust eller hårdvarufel.\n\nVi begär att du inte skickar felrapporter om någon av dessa inställningar har ändrats från standard.</string>
     <string name="processor_title">Processor</string>
-    <string name="processor_summary">Ändra CPU-guvernör och klockfrekvens</string>
     <string name="cpu_cur_freq_title">Nuvarande CPU-frekvens</string>
     <string name="cpu_governors_title">CPU-guvernör</string>
     <string name="cpu_min_freq_title">Minsta CPU-frekvens</string>
     <string name="cpu_max_freq_title">Högsta CPU-frekvens</string>
-    <string name="cpu_set_on_boot">Ställ in vid uppstart</string>
-    <string name="cpu_set_on_boot_summary">Återställ processorinställningarna vid uppstart</string>
     <string name="io_scheds_title">I/O scheduler</string>
-    <string name="io_scheds_summary">Ändra I/O scheduler</string>
     <string name="io_sched_title">I/O scheduler</string>
-    <string name="io_sched_set_on_boot">Ställ in vid uppstart</string>
-    <string name="io_sched_set_on_boot_summary">Återställ I/O schedulerns inställningar vid uppstart</string>
     <string name="memory_management_title">Minneshantering</string>
-    <string name="memory_management_summary">Anpassa minnesanvändningen för att ändra systemprestandan</string>
     <string name="pref_zram_title">zRam</string>
     <string name="pref_zram_summary">Komprimera minne för ökad virtuell kapacitet (kräver omstart)</string>
     <string name="pref_ksm_title">Kernel Samepage Merging</string>
@@ -576,7 +568,6 @@ Varje linje i belysningslistan korresponerar med en <i>kontrollpunkt</i> i belys
     <string name="navigation_ring_title">Snabbstartsgenvägar</string>
     <string name="navring_target_reset_message">Ta bort alla användarskapade navigeringsradsgenvägar och återställ till standard?</string>
     <string name="navring_target_reset">Återställ navigeringsradsgenvägar till standard</string>
-    <string name="navring_target_save">Navigeringsradsgenvägar sparade</string>
     <string name="navring_action_open_ime_switcher">Öppna inmatningsväxlare</string>
     <string name="navring_action_kill_app">Tvångsavsluta app</string>
     <string name="navring_action_none">Ingen</string>

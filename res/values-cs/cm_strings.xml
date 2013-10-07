@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2012-2013 The CyannogenMod Project
+<!-- Copyright (C) 2012-2013 The CyanogenMod Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -74,14 +74,14 @@
 
     <string name="device_hostname">Hostitelské jméno zařízení</string>
 
-    <string name="mod_version">Verze CyanFoxu</string>
+    <string name="mod_version">Verze CyanogenModu</string>
     <string name="mod_version_default">Neznámá</string>
     <string name="build_date">Datum sestavení</string>
     <string name="cpu_info">CPU</string>
     <string name="mem_info">Paměť</string>
 
-    <string name="anonymous_statistics_title">CyanFox statistiky</string>
-    <string name="anonymous_statistics_summary">Pomozte ke zlepšení CyanFoxu pomocí posíláním anonymních statistik</string>
+    <string name="anonymous_statistics_title">CyanogenMod statistiky</string>
+    <string name="anonymous_statistics_summary">Pomozte ke zlepšení CyanogenModu pomocí posíláním anonymních statistik</string>
     <string name="anonymous_statistics_warning_title">Info</string>
     <string name="anonymous_statistics_warning">Pokud povolíte zasílání anonymních statistik z vašeho zařízení, budou se odesílat data bez vašich osobních údajů k vývojářům. Data jsou odesílána během startu zařízení.\n\nMůžete se také podívat do náhledu odesílaných dat.</string>
     <string name="enable_reporting_title">Povolit odesílání</string>
@@ -89,7 +89,7 @@
     <string name="view_stats_title">Zobrazit statistiky</string>
     <string name="anonymous_learn_more">Zjistit více</string>
 
-    <string name="anonymous_notification_desc">Povolit, nebo zakázat CyanFox statistiky</string>
+    <string name="anonymous_notification_desc">Povolit, nebo zakázat CyanogenMod statistiky</string>
 
     <string name="preview_id_title">Unikátní ID</string>
     <string name="preview_device_title">Zařízení</string>
@@ -120,7 +120,6 @@
     <string name="lockscreen_target_title">Zkratky v posuvníku</string>
     <string name="lockscreen_target_summary">Zobrazit nebo změnit vlastní zktratky pro zámek obrazovky</string>
     <string name="lockscreen_target_reset">Zkratky zámku obrazovky byly obnoveny do původních hodnot</string>
-    <string name="lockscreen_target_save">Zkratky zámku obrazovky byly uloženy</string>
     <string name="lockscreen_target_reset_title">Výchozí</string>
     <string name="lockscreen_target_reset_message">Odstranit všechny uživatelsky vytvořené zktratky a obnovit výchozí nastavení?</string>
     <string name="lockscreen_target_empty">Prázdné</string>
@@ -244,24 +243,17 @@
     <string name="performance_settings_warning">Tato nastavení jsou určena pouze pro experimentování a jakékoliv změny v nich můžou vést k nestabilitě či pádům systému, ztrátě dat nebo selhání hardware.\nNeposílejte prosím hlášení o chybách, pokud jste je jakkoliv měnili.</string>
 
     <string name="processor_title">Procesor</string>
-    <string name="processor_summary">Změna CPU regulátoru a frekvence</string>
 
     <string name="cpu_cur_freq_title">Aktuální frekvence CPU</string>
     <string name="cpu_governors_title">CPU regulátor</string>
     <string name="cpu_min_freq_title">Min frekvence CPU</string>
     <string name="cpu_max_freq_title">Max frekvence CPU</string>
-    <string name="cpu_set_on_boot">Nastavit při startu</string>
-    <string name="cpu_set_on_boot_summary">Obnovit nastavení CPU při startu</string>
 
     <string name="io_scheds_title">I/O plánovač</string>
-    <string name="io_scheds_summary">Změnit I/O plánovač</string>
 
     <string name="io_sched_title">I/O plánovač</string>
-    <string name="io_sched_set_on_boot">Nastavit při startu</string>
-    <string name="io_sched_set_on_boot_summary">Obnovit nastavení I/O plánovače při startu</string>
 
     <string name="memory_management_title">Správa paměti</string>
-    <string name="memory_management_summary">Vlastní nastavení využití paměti</string>
     <string name="pref_zram_title">zRam</string>
     <string name="pref_zram_summary">Komprimovat paměť pro zvýšení virtuální kapacity (vyžaduje restart)</string>
     <string name="pref_ksm_title">Slučování sdílených částí paměti kernelem</string>
@@ -462,7 +454,7 @@
     <string name="power_menu_user_title">Přepínač uživatelů</string>
     <string name="power_menu_sound_title">Panel hlasitosti</string>
 
-    <string name="cmupdate_settings_title">Aktualizace CyanFoxu</string>
+    <string name="cmupdate_settings_title">Aktualizace CyanogenModu</string>
     <string name="cmupdate_settings_summary">Zkontrolujte, zda jsou k dispozici aktualizace</string>
 
     <string name="advanced_settings_title">Rozšířené</string>
@@ -688,7 +680,6 @@ jednotlivě měnit a tím zvětšit počet řídících bodů. \'Odstranit\' sma
     <string name="navigation_ring_title">Zkratky rychlého spuštění</string>
     <string name="navring_target_reset_message">Odstranit všechny uživatelem vytvořené zkratky v navigační liště a obnovit do výchozího nastavení?</string>
     <string name="navring_target_reset">Zkratky navigační lišty obnoveny</string>
-    <string name="navring_target_save">Zkratky navigační lišty uloženy</string>
     <string name="navring_action_open_ime_switcher">Přepínač vstupní metody</string>
     <string name="navring_action_kill_app">Ukončit apl.</string>
     <string name="navring_action_none">Žádná</string>

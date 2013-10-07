@@ -29,20 +29,20 @@
     <string name="notification_convert_sound_to_vibration_title">Вібрація при сповіщеннях</string>
     <string name="notification_convert_sound_to_vibration_summary">В режимі \"Вібро\" вібрувати при сповіщеннях незалежно від налаштувань програм</string>
     <string name="device_hostname">Ім’я пристрою</string>
-    <string name="mod_version">Версія CyanFox</string>
+    <string name="mod_version">Версія CyanogenMod</string>
     <string name="mod_version_default">Невідомо</string>
     <string name="build_date">Дата збірки</string>
     <string name="cpu_info">Процесор</string>
     <string name="mem_info">Пам’ять</string>
-    <string name="anonymous_statistics_title">Статистика CyanFox</string>
+    <string name="anonymous_statistics_title">Статистика CyanogenMod</string>
     <string name="anonymous_statistics_summary">Допоможіть зробити CM краще, увімкнувши відправку анонімних звітів</string>
     <string name="anonymous_statistics_warning_title">Інформація про використання</string>
-    <string name="anonymous_statistics_warning">Анонімні звіти дозволяють розробникам CyanFox відслідковвувати встановлення на різні пристрої. Інформація, що відправляється включає в себе тип пристрою, версію прошивки і унікальний ідентифікатор, відправка якого ніяким способом не шкодить Вашій конфіденційності. Звіт відсилається при кожному завантаженні пристрою.\n\nДля перегляду даних, які відправляються, нитисніть \"Перегляд\".</string>
+    <string name="anonymous_statistics_warning">Анонімні звіти дозволяють розробникам CyanogenMod відслідковвувати встановлення на різні пристрої. Інформація, що відправляється включає в себе тип пристрою, версію прошивки і унікальний ідентифікатор, відправка якого ніяким способом не шкодить Вашій конфіденційності. Звіт відсилається при кожному завантаженні пристрою.\n\nДля перегляду даних, які відправляються, нитисніть \"Перегляд\".</string>
     <string name="enable_reporting_title">Увімкнути відправку звітів</string>
     <string name="preview_data_title">Перегляд</string>
     <string name="view_stats_title">Статистика</string>
     <string name="anonymous_learn_more">Детальніше</string>
-    <string name="anonymous_notification_desc">Анонімна статистика CyanFox</string>
+    <string name="anonymous_notification_desc">Анонімна статистика CyanogenMod</string>
     <string name="preview_id_title">Унікальний ідентифікатор</string>
     <string name="preview_device_title">Пристрій</string>
     <string name="preview_version_title">Версія</string>
@@ -56,7 +56,6 @@
     <string name="lockscreen_target_title">Ярлики екрану блокування</string>
     <string name="lockscreen_target_summary">Встановлення чи налаштування ярликів екрану блокування</string>
     <string name="lockscreen_target_reset">Ярлики экрану блокування скинуті до типових</string>
-    <string name="lockscreen_target_save">Ярлики екрану бокування збережені</string>
     <string name="lockscreen_target_reset_title">Скинути</string>
     <string name="lockscreen_target_reset_message">Видати всі створені ярлики екрану блокування та встановити типові значення?</string>
     <string name="lockscreen_target_empty">Пусто</string>
@@ -150,20 +149,13 @@
     <string name="performance_settings_warning_title">Будьте обережні</string>
     <string name="performance_settings_warning">Ці налаштуванні увімкнені для експериментів та любі внесені зміни можуть викликати нестабільну роботу, збої, втрату даних чи апаратні проблеми.\n\nМи просимо не слати повідомлення про помилки, якщо Ви що-небудь міняли в цих налаштуваннях.</string>
     <string name="processor_title">Процесор</string>
-    <string name="processor_summary">Зміна режимів та частот ЦП</string>
     <string name="cpu_cur_freq_title">Поточна частота ЦП</string>
     <string name="cpu_governors_title">Режим ЦП</string>
     <string name="cpu_min_freq_title">Мінімальна частота ЦП</string>
     <string name="cpu_max_freq_title">Максимальна частота ЦП</string>
-    <string name="cpu_set_on_boot">Виставляти при завантаженні</string>
-    <string name="cpu_set_on_boot_summary">Застосувати поточні налаштування ЦП при завантаженні</string>
     <string name="io_scheds_title">Планувальник I/O</string>
-    <string name="io_scheds_summary">Змінити режим планувальника I/O (вводу/виводу)</string>
     <string name="io_sched_title">Планувальник I/O</string>
-    <string name="io_sched_set_on_boot">Застосовувати при завантаженні</string>
-    <string name="io_sched_set_on_boot_summary">Застосовувати поточні значення планувальника I/O при завантаженні</string>
     <string name="memory_management_title">Керування пам’яттю</string>
-    <string name="memory_management_summary">Налаштування використання пам’яті для зміни продуктивності системи</string>
     <string name="pref_zram_title">zRam</string>
     <string name="pref_zram_summary">Стиснення пам’яті для збільшення ємності (потрібне перезавантаження)</string>
     <string name="pref_ksm_summary">KSM зменшує фізичні вимоги до пам’яті та збільшує продуктивність</string>
@@ -317,7 +309,7 @@
     <string name="power_menu_airplane_title">Режим польоту</string>
     <string name="power_menu_user_title">Переключенння користувачів</string>
     <string name="power_menu_sound_title">Звукова панель</string>
-    <string name="cmupdate_settings_title">Оновлення CyanFox</string>
+    <string name="cmupdate_settings_title">Оновлення CyanogenMod</string>
     <string name="cmupdate_settings_summary">Перевірка та встановлення доступних оновлень</string>
     <string name="advanced_settings_title">Розширені налаштування</string>
     <string name="ime_switcher_notify">Вибір способу введення</string>
@@ -438,7 +430,7 @@
     <string name="volume_adjust_sounds_enable_title">Звук при регулюванні гучності</string>
     <string name="volume_adjust_sounds_enable_summary">Відтворювати звук при зміні гучності кнопками \"+\" чи \"-\"</string>
     <string name="cyanogenmod_waiver_title">Відмова від відповідальності</string>
-    <string name="cyanogenmod_waiver_body">Зміна цих налаштувань може суперечити законам вашох країни.\n\nНатискаючи \"OK\" Ви погоджуєтесь із цим попередженням та звільняєте CyanFox і всіх його розробників від любих юридичних зобов’язань.</string>
+    <string name="cyanogenmod_waiver_body">Зміна цих налаштувань може суперечити законам вашох країни.\n\nНатискаючи \"OK\" Ви погоджуєтесь із цим попередженням та звільняєте CyanogenMod і всіх його розробників від любих юридичних зобов’язань.</string>
     <string name="light_sensor_current_value">Поточний показ датчика: <xliff:g id="light_level">%d</xliff:g> лк</string>
     <string name="auto_brightness_dialog_title">Рівні автоматичної підсвітки</string>
     <string name="auto_brightness_level_format"><xliff:g id="level">%1$d</xliff:g> лк</string>
@@ -457,7 +449,6 @@
     <string name="navigation_ring_title">Ярлики швидкого запуску</string>
     <string name="navring_target_reset_message">Видалити всі налаштовані ярлики та повернутись до типових?</string>
     <string name="navring_target_reset">Ярлики відновлено до типових</string>
-    <string name="navring_target_save">Ярлики збережено</string>
     <string name="navring_action_open_ime_switcher">Відкрити перемикач розкладок</string>
     <string name="navring_action_kill_app">Закрити</string>
     <string name="navring_action_none">Немає</string>
