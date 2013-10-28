@@ -914,6 +914,7 @@
         <item>Always allow</item>
     </string-array>
 
+<<<<<<< HEAD
     
     <!-- Recents RAM bar-->
     <string-array name="entries_ram_bar_mode">
@@ -982,3 +983,13 @@
         <item>7</item>
     </string-array>
 </resources>
+=======
+    <!-- Display settings.  Entries for each type of Subscription. -->
+    <string-array name="multi_sim_entries">
+        <item> Subscription 1 </item>
+        <item> Subscription 2 </item>
+        <item> Subscription 3 </item>
+    </string-array>
+
+  </resources>
+>>>>>>> a47a5a92d21e2f643bef564decccced635ae7211
